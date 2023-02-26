@@ -1,23 +1,22 @@
-<p><span class="Heading1Char" style="text-align: justify;"><b><span style="font-size: 14pt;">Introduction:</span></b></span><span style="font-family: Cambria, serif; font-size: 12pt; text-align: justify;"> Create a GUI application “Address Book” which can be used to store and search the information of 
-different people. The information can be name, phone no, email, street address etc. </span></p>
-
-### This application is based on Java GUI...
+# Address Book
+Project: A GUI application <b>Address Book</b> which can be used to store and search the information of 
+different people. The information can be name, phone no, email, street address etc.
 
 ## This application have those following features:
-<p class="MsoNoSpacing" style="margin-left: 0.5in; mso-list: l1 level1 lfo2; text-align: justify; text-indent: -0.25in; text-justify: inter-ideograph;"><!--[if !supportLists]--><span style="color: #4472c4; font-family: Wingdings; font-size: 14pt; font-variant-caps: small-caps; font-variant-east-asian: normal; font-variant-numeric: normal; letter-spacing: 0.25pt;">§<span style="font-family: &quot;Times New Roman&quot;; font-size: 7pt; font-stretch: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">&nbsp; </span></span><!--[endif]--><span style="font-size: 12pt;"> A GUI where the user can input the new information of a particular person. The information should be stored in a file. You will have to append new info to the file. Otherwise, the previous information will be lost.</span><b><span style="color: #4472c4; font-size: 14pt; font-variant-caps: small-caps; font-variant-east-asian: normal; font-variant-numeric: normal; letter-spacing: 0.25pt;"><o:p></o:p></span></b></p>
+§  A GUI where the user can input the new information of a particular person. The information should be stored in a file. You will have to append new info to the file. Otherwise, the previous information will be lost.
 
-<p class="MsoNoSpacing" style="margin-left: 0.5in; mso-list: l1 level1 lfo2; text-align: justify; text-indent: -0.25in; text-justify: inter-ideograph;"><!--[if !supportLists]--><span style="color: #4472c4; font-family: Wingdings; font-size: 14pt; font-variant-caps: small-caps; font-variant-east-asian: normal; font-variant-numeric: normal; letter-spacing: 0.25pt;">§<span style="font-family: &quot;Times New Roman&quot;; font-size: 7pt; font-stretch: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">&nbsp; </span></span><!--[endif]--><span style="font-size: 12pt;"> A GUI in which the user will be able to see the information of everyone, sorted by name. The information must come from the file where you stored user information.</span><b><span style="color: #4472c4; font-size: 14pt; font-variant-caps: small-caps; font-variant-east-asian: normal; font-variant-numeric: normal; letter-spacing: 0.25pt;"><o:p></o:p></span></b></p>
+§  A GUI in which the user will be able to see the information of everyone, sorted by name. The information must come from the file where you stored user information.
 
-<p class="MsoNoSpacing" style="margin-left: 0.5in; mso-list: l1 level1 lfo2; text-align: justify; text-indent: -0.25in; text-justify: inter-ideograph;"><!--[if !supportLists]--><span style="color: #4472c4; font-family: Wingdings; font-size: 14pt; font-variant-caps: small-caps; font-variant-east-asian: normal; font-variant-numeric: normal; letter-spacing: 0.25pt;">§<span style="font-family: &quot;Times New Roman&quot;; font-size: 7pt; font-stretch: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">&nbsp; </span></span><!--[endif]--><span style="font-size: 12pt;">A GUI where the user will be able to search a person using his name or phone no. The search result should show the info of all the matched people.</span><b><span style="color: #4472c4; font-size: 14pt; font-variant-caps: small-caps; font-variant-east-asian: normal; font-variant-numeric: normal; letter-spacing: 0.25pt;"><o:p></o:p></span></b></p>
+§  A GUI where the user will be able to search a person using his name or phone no. The search result should show the info of all the matched people.
 
-<p class="MsoNoSpacing" style="margin-left: 0.5in; mso-list: l1 level1 lfo2; text-align: justify; text-indent: -0.25in; text-justify: inter-ideograph;"><!--[if !supportLists]--><span style="color: #4472c4; font-family: Wingdings; font-size: 14pt; font-variant-caps: small-caps; font-variant-east-asian: normal; font-variant-numeric: normal; letter-spacing: 0.25pt;">§<span style="font-family: &quot;Times New Roman&quot;; font-size: 7pt; font-stretch: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-numeric: normal; line-height: normal;">&nbsp; </span></span><!--[endif]--><span style="font-size: 12pt;">A GUI where the user will be able to edit the information of a specific person.</span><b><span style="color: #4472c4; font-size: 14pt; font-variant-caps: small-caps; font-variant-east-asian: normal; font-variant-numeric: normal; letter-spacing: 0.25pt;"><o:p></o:p></span></b></p>
+§  A GUI where the user will be able to edit the information of a specific person.
+
+## Learning outcomes
+Upon completion of this project, you will have gained extensive knowledge in creating and designing a complex program from the ground up, including techniques for managing errors and processing user input.
+
+# Screenshots
+### Here is the screenshoot of the application
+![scene1](https://i.ibb.co/FWVkgMP/image.png)
 
 
-
-## Screenshot
-<p class="MsoNoSpacing" style="text-align: justify; text-justify: inter-ideograph;"><span class="Heading1Char"><b><span style="font-size: 12pt;">SCENE-1 :</span></b></span><span style="font-family: &quot;Cambria&quot;,serif; font-size: 12pt; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"> Here is the screenshoot of the application </span></p><div class="separator" style="clear: both; text-align: center;"><a href="https://s10.gifyu.com/images/Screenshot-2022-01-19-135016.png" style="margin-left: 1em; margin-right: 1em;"><img data-original-height="471" data-original-width="554" src="https://s10.gifyu.com/images/Screenshot-2022-01-19-135016.png" /></a></div><p class="MsoNoSpacing" style="text-align: justify; text-justify: inter-ideograph;"><br /></p>
-
-
-# Thanks...
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+### Coded with ♥ by [Rokibul Hasan](https://www.facebook.com/rokib16x)
